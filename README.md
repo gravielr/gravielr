@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Graviel
 - 👀 I’m interested in Video Games. 
-- :video_game:I am a Xbox fan :grin:
+- :video_game: I am a Xbox fan :grin:
 - 🌱 I’m currently learning Web Development 
 
 <!---
